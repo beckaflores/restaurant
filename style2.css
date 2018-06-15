@@ -27,4 +27,5 @@ address {text-align: right;}
 
 section {border-width: thick 2px;}
 
- /* draw a 2px thick black border around the starters and desserts sections of the menu */
+#starters {border: 2px solid black;}
+#desserts {border: 2px solid black;}
